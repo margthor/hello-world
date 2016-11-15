@@ -6,6 +6,6 @@ Merkur (symbol:Det astronomiske symbolet for Merkur) er den innerste og minste[b
 
 Den tilsynelatende størrelsesklassen går fra -2,3 til 5,7, og sett fra jorden er Merkur en lys planet. Nærheten til solen (største vinkelavstand er 28,3°) gjør den vanskelig å observere fra jorden. Med mindre det er en solformørkelse kan den bare ses i tussmørket ved daggry eller om kvelden fra den nordlige halvkulen, mens dens ekstreme elongasjon forekommer i deklinasjoner sør for himmelekvator slik at den kan sees fra gunstige steder ved moderate breddegrader ved en helt mørk himmel på den sydlige halvkule.
 
-Kilde: wikipedia.
+wikipedia.
 
 Just another repository
